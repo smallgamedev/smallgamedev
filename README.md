@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @smallgamedev
+- 👀 I’m interested in game development and hacking
+- 🌱 I’m currently learning python and powershell
